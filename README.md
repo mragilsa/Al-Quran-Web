@@ -43,7 +43,7 @@ Quran Web is a modern web app for reading and listening to the entire Quran. It 
     ``` bash
    npm run dev  
 
-5. Once started, the app will run locally and be accessible via your browser. 
+5. Once started, the app will run locally and be accessible via your browser
 
 ---
 
