@@ -43,19 +43,12 @@ Quran Web is a modern web app for reading and listening to the entire Quran. It 
     ``` bash
    npm run dev  
 
-5. Open the app in your browser at: [http://localhost:5173](http://localhost:5173)  
+5. Once started, the app will run locally and be accessible via your browser. 
 
 ---
 
 ## 📘 How to Use
 
-1. Open the app and browse through all 114 Surahs. 
-2. Click on a Surah to read its verses.  
-3. Press the Play button to listen to the recitation.
-
----
-
-## ✉️ Contact
-
-For any inquiries or feedback, feel free to reach out:   
-- Email: mragilsahyuda@gmail.com  
+- Open the app and browse through all 114 Surahs. 
+- Click on a Surah to read its verses.  
+- Press the Play button to listen to the recitation.
